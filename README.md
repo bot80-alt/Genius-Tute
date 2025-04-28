@@ -18,9 +18,6 @@ Welcome to **Genius Tute**, your one-stop destination for discovering and purcha
 - **CSS** – Styling and design  
 - **JavaScript (Optional)** – For interactive features  
 
-## 📷 Screenshots  
-*(Add screenshots of the website here to showcase the UI!)*  
-
 ## 🚀 Installation & Setup  
 Clone the repository and set up the project:  
 ```bash
